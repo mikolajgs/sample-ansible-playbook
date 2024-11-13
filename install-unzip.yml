@@ -1,0 +1,6 @@
+---
+- hosts: all
+  tasks:
+    - name: "Include gen64.sample"
+      ansible.builtin.include_role:
+        name: "gen64.sample"

@@ -1,0 +1,7 @@
+wheel
+ansible
+ansible-lint
+yamllint
+molecule
+molecule-docker
+testinfra
